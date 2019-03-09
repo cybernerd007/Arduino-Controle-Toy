@@ -3,17 +3,17 @@ Transforma um controle remoto de TV em um joystick para computador usando arduin
 
 *******
 Tabelas de conteúdo 
- 1. [COMO COLOCAR PARA FUNCIONAR PELA PRIMEIRA VEZ](#1)
- 2. [PROGRAMAS NECESSARIOS](#2)
- 3. [EDITAR](#3)
+ 1. [Como Colocar Para Funcionar Pela Primeira Vez](#1)
+ 2. [Programa Necessarios](#2)
+ 3. [Editar](#3)
  4. [Informações Adicionais](#4)
- 5. [CREDITOS E INFORMAÇÕES FINAIS](#5)
+ 5. [Creditos e Informações Finais](#5)
 
-*******
+******* 
 
 <div id='1'/> 
 
-# COMO COLOCAR PARA FUNCIONAR PELA PRIMEIRA VEZ
+# Como Colocar Para Funcionar Pela Primeira Vez
 simples, compile o arquivo da pasta `WindowsApp5`, depois passe o conteudo da pasta `controle-toy_Vers_o_0.2`
 para o arduino (caso não tenha passado ainda), depois de passar deixe o arduino conectado ao computador
 e abra o arquivo `WindowsApp5.exe` (que você compilou) click na seta da caixinha selecione a porta correspondente
@@ -21,14 +21,14 @@ na maioria das vezes so vai ter 1 item, depois clicka no botão e pronto ja vai 
 
 <div id='2'/> 
 
-# *PROGRAMAS NECESSARIOS*
+# *Programa Necessarios*
 * **Visual Studio 2017**  (somente para editar e copilar, nada mais)
 * **Arduino**  (software)
 * **`Ambos(os dois) são gratuitos.`**
 
 <div id='3'/> 
 
-#  *EDITAR*
+#  *Editar*
 abra a pasta `WindowsApp5` e inicie o arquivo `WindowsApp5.sln`
 edite o `Form1`, onde esta `F1` e `F2` edite para a tecla que você desejar.
 
@@ -44,7 +44,7 @@ qualquer outra tecla correspondente no caso `F1` e `F2`.
 
 <div id='5'/> 
 
-# CREDITOS E INFORMAÇÕES FINAIS
+# Creditos e Informações Finais
 Feito por Otávio Augusto - [GitHub](https://github.com/cybernerd007)
 
 Peço desculpa por algum erro de portugues ou pela explicação meio confusa, 
