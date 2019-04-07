@@ -1,7 +1,7 @@
 # Arduino-Controle-Toy
 Transforma um controle remoto de TV em um joystick para computador usando arduino
 
-Video Mostrando o Projeto Funcionando:
+**Video Mostrando o Projeto Funcionando:**
 
 [![Alt text](https://img.youtube.com/vi/PEFoF24mj5w/0.jpg)](https://youtu.be/PEFoF24mj5w)
 
